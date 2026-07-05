@@ -1,5 +1,4 @@
 # university-projects-portfolio
-Academic portfolio with technical and theoretical projects developed during my Systems Engineering studies.
 
 This repository contains technical and theoretical projects developed throughout my Bachelor's Degree in Systems Engineering. It includes software development projects, system analysis and design, databases, networking, cloud computing, software quality, and other academic work that demonstrates both practical and theoretical knowledge.
 
