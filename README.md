@@ -4,15 +4,15 @@ This repository contains technical and theoretical projects developed throughout
 
 ## Areas
 
-- 💻 Software Development
-- 🌐 Web Development
-- 📱 Mobile Development
-- 🗄️ Database Systems
-- 🏗️ Systems Analysis & Design
-- 📊 Data Analytics
-- ☁️ Cloud Computing
-- 🌐 Computer Networks
-- ✅ Software Quality
+- Software Development
+- Web Development
+- Mobile Development
+- Database Systems
+- Systems Analysis & Design
+- Data Analytics
+- Cloud Computing
+- Computer Networks
+- Software Quality
 
 ## Repository Structure
 
