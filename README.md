@@ -10,7 +10,6 @@ This repository contains technical and theoretical projects developed throughout
 - Database Systems
 - Systems Analysis & Design
 - Data Analytics
-- Cloud Computing
 - Computer Networks
 - Software Quality
 
