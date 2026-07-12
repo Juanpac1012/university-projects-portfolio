@@ -1,0 +1,4 @@
+﻿  ProyectoFinal.cpp
+C:\Users\Juanpa\Desktop\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(37,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Juanpa\Desktop\ProyectoFinal\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(152,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ProyectoFinal.vcxproj -> C:\Users\Juanpa\Desktop\ProyectoFinal\ProyectoFinal\x64\Debug\ProyectoFinal.exe
