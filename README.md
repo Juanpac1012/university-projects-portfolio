@@ -18,7 +18,6 @@ This repository contains technical and theoretical projects developed throughout
 ```
 software-development/
 web-development/
-mobile-development/
 database-systems/
 systems-analysis-design/
 data-analytics/
